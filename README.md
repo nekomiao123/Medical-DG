@@ -9,3 +9,11 @@ Datasets for medical domain generalization
 | CAMELYON17                                                   | five medical centers     | classification   | classification | [link](https://camelyon17.grand-challenge.org/Home/)         | [Stain Mix-Up: Unsupervised Domain Generalization for Histopathology Images](https://link.springer.com/content/pdf/10.1007%2F978-3-030-87199-4_11.pdf) |
 | Calgary-Campinas-359                                         | 6 domain 359 MR images   | MRI segmentation | Segmentation   | [link](https://sites.google.com/view/calgary-campinas-dataset/download) | [Anatomy of Domain Shift Impact on U-Net Layers in MRI Segmentation](https://link.springer.com/content/pdf/10.1007%2F978-3-030-87199-4_20.pdf) |
 
+OCT-DG
+
+| Dataset | Size | Task | Label Type | Download | Papers |
+| ------- | ---- | ---- | ---------- | -------- | ------ |
+|         |      |      |            |          |        |
+|         |      |      |            |          |        |
+|         |      |      |            |          |        |
+
